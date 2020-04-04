@@ -5,3 +5,4 @@
  - Configuration management : SCCM, Ansible
  - Scripting :  vbs,psh,bash,python
  - Cloud Platforms: AWS, GCP, Azure
+ - Containers: Docker, Kubernetes
